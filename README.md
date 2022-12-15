@@ -17,11 +17,6 @@ Some key features include:
 Of course, feel free to customize the applciation to your liking and contribute to future developments of the game!
 <br>
 ## Getting Started
-* Install all files uploaded
-* Look for "Gami-ccount Launcher" with a cute icon of a book
-* Enjoy the minigame!
-
-## Fork Me!
 * Fork this repository
 * Clone your forked repository
 * Add your scripts
