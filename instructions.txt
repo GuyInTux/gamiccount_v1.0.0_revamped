@@ -1,0 +1,15 @@
+Hi there, welcome to Gami-ccount. An Accounting Learning Software Optimized and Designed for quick, simple and lite learning of Accounting at ACCA standards.
+
+You may begin by tapping on 'Launch Gami-ccount' where it will start the trivia.
+
+On default, Gami-ccount will read from the database hence generating different levels of accounting questions.
+
+For each question there will be given 4 answers to choose from, with only 1 being the correct solution to the question.
+
+Infact, Gami-ccount is designed with the intention of allowing users to import their own sets of question so that the questions can be dynamic and users will be able to customize the trivia to their own needs.
+
+You can do so by importing a .csv file of questions prepared beforehand. When the import is complete, the question status on the menu page will flash green indicating that Gami-ccount has custom questions imported.
+
+In the future versions, Gami-ccount will introduce multiplayer mode so that multiple users will be able to join and compete against each other in the same room or lobby.
+
+Until then, enjoy the system to its fullest!

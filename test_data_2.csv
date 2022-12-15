@@ -1,0 +1,10 @@
+category,question_type,difficulty,question,correct_answer,incorrect_answer_0,incorrect_answer_1,incorrect_answer_2
+F1,MULTIPLE,NORMAL,q1,Answer for Test Question 1,1st Incorrect Ans for Q1,2nd Incorrect Ans for Q1,3rd Incorrect Ans for Q1
+F2,MULTIPLE,NORMAL,q2,Answer for Test Question 2,1st Incorrect Ans for Q2,2nd Incorrect Ans for Q2,3rd Incorrect Ans for Q2
+F3,MULTIPLE,NORMAL,q3,Answer for Test Question 3,1st Incorrect Ans for Q3,2nd Incorrect Ans for Q3,3rd Incorrect Ans for Q3
+F4,MULTIPLE,NORMAL,q4,Answer for Test Question 4,1st Incorrect Ans for Q4,2nd Incorrect Ans for Q4,3rd Incorrect Ans for Q4
+F5,MULTIPLE,NIGHTMARE,q5,Answer for Test Question 5,1st Incorrect Ans for Q5,2nd Incorrect Ans for Q5,3rd Incorrect Ans for Q5
+F6,MULTIPLE,NORMAL,q6,Answer for Test Question 6,1st Incorrect Ans for Q6,2nd Incorrect Ans for Q6,3rd Incorrect Ans for Q6
+F7,MULTIPLE,NIGHTMARE,q7,Answer for Test Question 7,1st Incorrect Ans for Q7,2nd Incorrect Ans for Q7,3rd Incorrect Ans for Q7
+F8,MULTIPLE,NIGHTMARE,q8,Answer for Test Question 8,1st Incorrect Ans for Q8,2nd Incorrect Ans for Q8,3rd Incorrect Ans for Q8
+F9,MULTIPLE,NIGHTMARE,q9,Answer for Test Question 9,1st Incorrect Ans for Q9,2nd Incorrect Ans for Q9,3rd Incorrect Ans for Q9
