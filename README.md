@@ -1,5 +1,3 @@
-# gamiccount_v1.0.0_revamped
-
 # *Gami-ccount: Enhanced Learning Solution for Accounting Studies v1.0.0*
 
 ## Description 
